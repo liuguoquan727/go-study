@@ -21,6 +21,16 @@ export PATH=$PATH:$GOPATH/bin
 source ~/.bash_profile
 ```
 
+# 目录
+
+## doc
+
+>总结文档
+
+## src
+
+>示例源码
+
 # 学习资料
 
 * [GO官网](https://golang.org/)
